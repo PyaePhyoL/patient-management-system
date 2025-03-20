@@ -1,0 +1,9 @@
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "",
+  "email": "michael.green.verylongemailaddress@example.com",
+  "address": "987 Cedar St, Springfield",
+  "birthDate": "1988-07-25"
+}
