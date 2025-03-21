@@ -1,0 +1,9 @@
+PUT http://localhost:4000/patients/a9b3abf9-9599-4869-b467-07c84ace7c67
+Content-Type: application/json
+
+{
+  "name": "Michael",
+  "email": "michael@gmail.com",
+  "address": "987 Cedar St, Springfield",
+  "birthDate": "1988-07-25"
+}
